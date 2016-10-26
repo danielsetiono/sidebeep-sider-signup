@@ -1,0 +1,20 @@
+body{
+	padding: 0;
+	margin: 0;
+	background-color: #404269;
+}
+
+.panel-form {
+	margin-top: 40px;
+}
+
+.logo-section{
+  margin: 0 auto;
+}
+.login-logo{
+  display: block;
+  margin:20px auto 40px;
+}
+.error{
+	color:red
+}
